@@ -1,0 +1,44 @@
+TN:
+SF:/private/var/folders/fb/z5cs4sv53y3b6x1mw_qjs87c0000gp/T/mojitotmp/mojits/myMojit/controller.server.js
+FN:2,(anonymous 1)
+FN:25,(anonymous 2)
+FN:24,index
+
+FNDA:1,(anonymous 1)
+FNDA:1,(anonymous 2)
+FNDA:1,index
+
+FNF:3
+FNH:3
+DA:2,1
+DA:16,1
+DA:25,1
+DA:26,1
+DA:27,0
+DA:28,0
+DA:30,1
+DA:31,1
+
+LF:8
+LH:6
+end_of_record
+TN:
+SF:/private/var/folders/fb/z5cs4sv53y3b6x1mw_qjs87c0000gp/T/mojitotmp/mojits/myMojit/models/model.server.js
+FN:2,(anonymous 1)
+FN:28,getData
+FN:18,init
+
+FNDA:1,(anonymous 1)
+FNDA:1,getData
+FNDA:1,init
+
+FNF:3
+FNH:3
+DA:2,1
+DA:16,1
+DA:19,1
+DA:29,1
+
+LF:4
+LH:4
+end_of_record

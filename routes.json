@@ -1,0 +1,29 @@
+[{
+    "settings": [ "master" ],
+    "hello index": {
+    	"verbs": ["get"],
+    	"path": "/hello",
+    	"call": "hello.index"
+    },
+    "root": {
+    	"path": "/",
+    	"call": "tribframe.index",
+    	"verbs": [ "get" ]
+    },
+    "header": {
+    	"verbs": [ "get" ],
+    	"path": "/header",
+    	"call": "header.index"
+    },
+    "body": {
+    	"verbs": [ "get" ],
+    	"path": "/body",
+    	"call": "body.index"
+    },
+    "footer": {
+    	"verbs": [ "get" ],
+    	"path": "/footer",
+    	"call": "footer.index"
+    }
+
+}]

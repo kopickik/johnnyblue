@@ -1,0 +1,17 @@
+{
+  "name": "johnnyblue",
+  "description": "My Mojito application",
+  "version": "0.0.1",
+  "author": "",
+  "contributors": [],
+  "dependencies": {
+    "mojito": ">0.6",
+    "nodemon": "0.7.10"
+  },
+  "engines": {
+    "node": ">0.8"
+  },
+  "devDependencies": {
+    "nodemon": "~0.7.10"
+  }
+}
